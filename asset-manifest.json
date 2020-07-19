@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Rest-API/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Rest-API/static/js/main.b83810e5.chunk.js",
+    "main.js.map": "/React-Rest-API/static/js/main.b83810e5.chunk.js.map",
+    "runtime-main.js": "/React-Rest-API/static/js/runtime-main.638daf8d.js",
+    "runtime-main.js.map": "/React-Rest-API/static/js/runtime-main.638daf8d.js.map",
+    "static/js/2.f2379d0d.chunk.js": "/React-Rest-API/static/js/2.f2379d0d.chunk.js",
+    "static/js/2.f2379d0d.chunk.js.map": "/React-Rest-API/static/js/2.f2379d0d.chunk.js.map",
+    "index.html": "/React-Rest-API/index.html",
+    "precache-manifest.68a186597d1dfdc6e29b6bd973002766.js": "/React-Rest-API/precache-manifest.68a186597d1dfdc6e29b6bd973002766.js",
+    "service-worker.js": "/React-Rest-API/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Rest-API/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f2379d0d.chunk.js.LICENSE.txt": "/React-Rest-API/static/js/2.f2379d0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.638daf8d.js",
+    "static/js/2.f2379d0d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b83810e5.chunk.js"
+  ]
+}
